@@ -154,4 +154,4 @@ Project Development <b>FINISHED SUCCESSFULLY</b>
 
 <b>Thank you so much jhuckaby/ for the webcam plugin!</b>
 
-BY ~ Aditya Saxena
+BY ~ NexT It & Systems Team 
